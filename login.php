@@ -58,14 +58,8 @@ if(count($_POST)>0) {
                     <li class="nav-item">
                         <a class="nav-link" style="color: white" href="index.php">Home</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" style="color: white" href="#">Features</a>
-                    </li>
                     <li class="nav-item">
-                        <a class="nav-link" style="color: white" href="#">Guides</a>
-                    </li> -->
-                    <li class="nav-item">
-                        <a class="nav-link" style="color: white" href="login.php"><span class="loginbutton">LogIn </span></a>
+                        <a class="nav-link" style="color: white" href="signup.php"><span class="loginbutton">Sign Up </span></a>
                     </li>
                 </ul>
             </div>
